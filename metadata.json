@@ -1,0 +1,8 @@
+{
+  "uuid": "owldrop@ebraamraafat.dev",
+  "name": "OwlDrop",
+  "description": "Top-bar front-end for the Owly AirDrop client on Fedora. Requires Owly (owlyd) to be installed.",
+  "version": 1,
+  "shell-version": ["50"],
+  "url": "https://github.com/<your-username>/owldrop"
+}
